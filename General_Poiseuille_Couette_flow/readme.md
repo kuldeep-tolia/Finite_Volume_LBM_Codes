@@ -13,4 +13,5 @@ $$P = - \frac{h^2}{2 \mu U} \left( \frac{d P}{d x} \right)$$
 
 -> The domain size considered is $2h \times h$.  
 -> No-slip velocity boundary conditions are applied on the walls, whereas periodic boundary condition is considered in the streamwise direction.  
--> The top wall velocity is governed by the Reynolds number, defined as $Re = U h / \nu = 15$.
+-> The top wall velocity is governed by the Reynolds number, defined as $Re = U h / \nu = 15$.  
+-> The present solver was tested with various values of $P$ corresponding to adverse, zero, and favourable pressure gradients.
