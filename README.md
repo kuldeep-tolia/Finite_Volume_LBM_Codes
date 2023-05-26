@@ -1,1 +1,3 @@
-# Finite_Volume_LBM_Codes
+-> This repository contains FVM codes for solving Boltzmann equation using cell-centered structured grid approach to study the incompressible and laminar flows.    
+-> The present solver can achieve second-order spatial accuracy and first-order temporal accuracy.  
+-> Two benchmark test cases are presented here: Poiseuille-Couette flow and Lid-driven cavity flow.  
